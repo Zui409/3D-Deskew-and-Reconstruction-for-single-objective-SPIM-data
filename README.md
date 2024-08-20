@@ -8,7 +8,7 @@ Software
 ------------
 ImageJ
 
-Spyder (any pyhton IDE): Packages can be installed using the reconstruction.yml  
+Spyder (any pyhton IDE): Packages can be installed using the pyimagej.yml  
 
 Overview
 ------------
